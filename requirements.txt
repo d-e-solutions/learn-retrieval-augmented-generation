@@ -6,3 +6,6 @@ qdrant-client==1.9.0
 # Non-coursera version sentence-transformers==2.3.1
 sentence-transformers==2.2.2
 openai==1.11.1
+httpx==0.27.2
+numpy==1.26.4
+huggingface_hub<0.26.0
